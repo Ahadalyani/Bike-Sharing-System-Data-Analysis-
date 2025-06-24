@@ -42,7 +42,6 @@ This project is an exploratory data analysis (EDA) on the UCI Bike Sharing Datas
 - 👥 **Casual vs Registered Users**
 - 📆 **Monthly Weather Distribution**
 
---
-## 🗃️ Folder Structure
+
 
 
