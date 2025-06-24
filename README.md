@@ -1,6 +1,6 @@
 # 🚲 Bike Sharing System Data Analysis
 
-=========================================
+
 Background 
 =========================================
 
@@ -16,7 +16,7 @@ of travel, departure and arrival position is explicitly recorded in these system
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
 events in the city could be detected via monitoring these data.
 
-=========================================
+
 Data Set
 =========================================
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
@@ -25,7 +25,7 @@ the two-year historical log corresponding to years 2011 and 2012 from Capital Bi
 publicly available in http://capitalbikeshare.com/system-data. We aggregated the data on two hourly and daily basis and then 
 extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com. 
 
-=========================================
+
 Files
 =========================================
 
@@ -33,8 +33,7 @@ Files
 	- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 	- day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
 
-	
-=========================================
+
 Dataset characteristics
 =========================================	
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
